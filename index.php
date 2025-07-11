@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>💖 Calculateur de MGP (notes sur 100)</h1>
+        <h1> 📓Calculateur de MGP (notes sur 100)</h1>
         <form action="calcul.php" method="post">
             <p>Saisis tes notes sur 100 et les crédits pour chaque UE :</p>
             <table>
